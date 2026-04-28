@@ -42,10 +42,10 @@ const projects: Project[] = [
       "Built analytics APIs, data quality endpoints, and a scikit-learn logistic regression model that reached 69.8% accuracy and 0.75 ROC-AUC for matchup prediction.",
     ],
     links: [
-      { label: "Live Demo", href: "https://nba-data-pipeline-api.onrender.com/dashboard" },
-      { label: "Dashboard", href: "https://nba-data-pipeline-api.onrender.com/dashboard" },
-      { label: "API Docs", href: "https://nba-data-pipeline-api.onrender.com/docs" },
-      { label: "Prediction Page", href: "https://nba-data-pipeline-api.onrender.com/predictions/matchup" },
+      { label: "Live Demo", href: "http://16.54.146.35" },
+      { label: "Dashboard", href: "http://16.54.146.35/dashboard" },
+      { label: "API Docs", href: "http://16.54.146.35/docs" },
+      { label: "Prediction Page", href: "http://16.54.146.35/predict" },
       {
         label: "GitHub",
         href: "https://github.com/pranav-praburam/nba-data-pipeline",
