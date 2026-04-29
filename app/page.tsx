@@ -25,7 +25,7 @@ const profile = {
   subheadline:
     "I build ETL pipelines, analytics APIs, and backend data services that turn complex data into reliable products and practical business insights.",
   quickLinks: [
-    { label: "Resume", href: "/Pranav_Praburam_Resume.pdf" },
+    { label: "Resume", href: "/Pranav_Praburam_Resume_Updated.pdf" },
     { label: "GitHub", href: "https://github.com/pranav-praburam" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/pranavpraburam" },
   ],
