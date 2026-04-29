@@ -205,9 +205,14 @@ export default function Home() {
             <p className="text-sm font-semibold uppercase tracking-[0.28em] text-accent">
               Open to Data Engineering and Backend Roles
             </p>
-            <h1 className="mt-6 max-w-3xl font-serif text-5xl leading-tight text-ink sm:text-6xl">
-              {profile.name}, {profile.headline}
-            </h1>
+            <div className="mt-6 max-w-4xl">
+              <h1 className="font-serif text-6xl leading-none text-ink sm:text-7xl lg:text-[6.2rem]">
+                {profile.name}
+              </h1>
+              <h2 className="mt-4 max-w-3xl text-2xl font-medium leading-tight text-slate sm:text-3xl lg:text-[2.2rem]">
+                {profile.headline}
+              </h2>
+            </div>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-slate sm:text-xl">
               {profile.subheadline}
             </p>
